@@ -1,3 +1,4 @@
+name: ZAP DAST scan
 on: [push]
 
 jobs:
